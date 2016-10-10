@@ -52,3 +52,7 @@ h2 {
   color: #3f1622;
   font-weight: bolder;
 }
+
+.greek li {
+  list-style-type: lower-greek;
+}
