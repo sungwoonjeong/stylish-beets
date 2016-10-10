@@ -65,8 +65,11 @@ h2 {
   line-height: 1.5;
 }
 
+.data{
+  line-height: 1.5;
+}
 .data dt:nth-child(2) {
-  color: #222;
+  font-weight: bolder;
 }
 
 footer a {
