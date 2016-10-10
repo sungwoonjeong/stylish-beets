@@ -22,11 +22,16 @@ a:hover {
 }
 
 img {
-  width: 100% 
+  width: 100%
 }
 
 figcaption {
   font-family: 'PT Serif', serif;
   font-style: italic;
   font-weight: normal;
+}
+
+.strong {
+  font-weight: bold;
+  font-size: 1.125rem;
 }
