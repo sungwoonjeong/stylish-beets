@@ -61,6 +61,7 @@ h2 {
 
 .greek li {
   list-style-type: lower-greek;
+  line-height: 1.5;
 }
 
 main dl dt:nth-child(2) {
