@@ -5,7 +5,7 @@ html {
 }
 
 header h1 {
-  font-weight: bold;
+  font-weight: bolder;
   color: #3f1622;
 }
 
@@ -46,4 +46,9 @@ main blockquote p {
   font-size: 1.5rem;
   line-height: 1.5;
   font-style: italic;
+}
+
+h2 {
+  color: #3f1622;
+  font-weight: bold;
 }
