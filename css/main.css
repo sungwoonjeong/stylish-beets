@@ -1,12 +1,14 @@
 html {
   background-color: #c9b5ab;
   font-family: 'PT Sans', sans-serif;
+  line-height: 1.5;
 }
 
 header h1 {
   color: #3f1622;
 }
 
-header ol li {
+header ol p {
+  font-weight: bold;
  color: #8f2440;
 }
