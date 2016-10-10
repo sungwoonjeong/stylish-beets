@@ -17,6 +17,10 @@ header h1 {
   text-decoration: none;
 }
 
+a:hover {
+  color: #3f1622;
+}
+
 figcaption {
   font-family: 'PT Serif', serif;
   font-style: italic;
