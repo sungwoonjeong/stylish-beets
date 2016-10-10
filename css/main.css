@@ -35,3 +35,8 @@ figcaption {
   font-weight: bold;
   font-size: 1.125rem;
 }
+
+main p {
+  font-family: 'PT Serif', serif;
+  font-size: 0.8rem;
+}
