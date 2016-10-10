@@ -5,6 +5,7 @@ html {
 }
 
 header h1 {
+  font-weight: bold;
   color: #3f1622;
 }
 
@@ -16,4 +17,5 @@ header ol a {
 figcaption {
   font-family: 'PT Serif', serif;
   font-style: italic;
+  font-weight: normal;
 }
