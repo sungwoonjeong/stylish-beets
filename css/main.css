@@ -1,6 +1,7 @@
 html {
   background-color: #c9b5ab;
   font-family: "PT Serif", serif;
+  color: #222;
 }
 
 header h1 {
@@ -65,9 +66,10 @@ h2 {
   line-height: 1.5;
 }
 
-.data{
+.data {
   line-height: 1.5;
 }
+
 .data dt:nth-child(2) {
   font-weight: bolder;
 }
