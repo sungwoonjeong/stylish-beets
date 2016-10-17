@@ -11,13 +11,13 @@ header h1 {
 }
 
 ol {
-  list-style-type: none;
+  list-style-type: none;  
 }
 
 a {
   font-family: "PT Sans", sans-serif;
   line-height: 1.5;
-  font-size: 1.5rem;
+  font-size: 1.125rem;
   font-weight: bold;
   color: #8f2440;
   text-decoration: none;
