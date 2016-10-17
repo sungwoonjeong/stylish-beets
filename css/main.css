@@ -78,6 +78,10 @@ h2 {
   font-weight: bolder;
 }
 
+.data dt:nth-child(1) {
+  font-style: italic;
+}
+
 footer a {
   font-size: 0.8rem;
   font-family: "PT Serif", serif;
